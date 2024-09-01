@@ -1,4 +1,4 @@
-package br.com.fiap.ms_pedidos.config;
+package lorenzo_nascimento.ms_proposta.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
