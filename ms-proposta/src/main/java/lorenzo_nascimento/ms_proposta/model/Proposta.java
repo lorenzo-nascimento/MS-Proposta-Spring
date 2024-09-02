@@ -9,6 +9,9 @@ import lombok.Setter;
 
 import java.math.BigDecimal;
 
+// RM 88505 - LORENZO BERLOFA PAZIN DO NASCIMENTO
+// RM 94106 - Haniel Botelho Barreto
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
